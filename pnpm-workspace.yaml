@@ -1,0 +1,4 @@
+packages:
+  - 'node-unblocker'
+  - 'node-unblocker/examples/*'
+  - 'nodeunblocker.com'
